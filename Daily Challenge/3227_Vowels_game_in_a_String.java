@@ -9,7 +9,8 @@ class Solution {
         }
         return false;
     }
-//isvowel for checking 
+
+    // isVowel for checking
     private boolean isVowel(char c) {
         return c == 'a' || c == 'e' || c == 'i' || c == 'o' || c == 'u';
     }
