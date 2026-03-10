@@ -1,6 +1,6 @@
 # 🚀 LeetCode Java Solutions
 
-📌 Each folder contains `.java` files with solutions to LeetCode problems, organized by **topic** and **difficulty**.
+📌 Each folder contains `.java` or `.js` files with solutions to LeetCode problems, organized by **topic** and **difficulty**.
 
 ---
 
