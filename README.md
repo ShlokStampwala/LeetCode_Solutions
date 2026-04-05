@@ -1,11 +1,13 @@
-# 🚀 LeetCode Java Solutions
+# 🚀 LeetCode  DSA Java  & SQL Solutions
 
-📌 Each folder contains `.java` or `.js` files with solutions to LeetCode problems, organized by **topic** and **difficulty**.
+📌 This repository contains my solutions to LeetCode problems, covering both Data Structures & Algorithms (DSA) and Database (SQL) concepts.
+All solutions are organized by topic and difficulty for easy navigation.
 
 ---
 
 ## ✨ Features
-- 🚀 Clean and well-structured **Java code**
+- 🚀 Clean and well-structured **Java code** / **javascript code**
+- 🗄️ Optimized and readable SQL queries
 - 📂 Organized by **topic** (Array, String, DP, Graph, etc.)
 - 🎯 Categorized by **difficulty** (Easy / Medium / Hard)
 - 📊 Covers popular patterns:
@@ -15,12 +17,14 @@
   - Recursion & Backtracking  
   - Dynamic Programming  
   - Graph & Tree Traversals  
+  - SQL Joins & Aggregations
 
 ---
 
 ## 🎯 Goals
 - 📅 Practice daily  
-- 🧠 Build strong **DSA & problem-solving skills**  
+- 🧠 Build strong **DSA & problem-solving skills & SQL**  
+- 🗄️ Strengthen **SQL & database concepts**
 - 💻 Prepare effectively for **FAANG / Top Tech interviews**  
 - 🚀 Share my learning journey  
 
